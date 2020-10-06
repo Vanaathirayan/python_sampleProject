@@ -6,6 +6,7 @@ gnureadline==6.3.3
 itsdangerous==0.24
 rauth==0.7.0
 requests==2.3.0
+urlparse
 
 
 gunicorn==18.0
